@@ -1,7 +1,7 @@
 
 header{
     position: relative;
-    background-image: url(bkg-img.jpg);
+    background-image: url(../images/bkg-img.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -66,7 +66,7 @@ header{
 
 .section-container-bkg{
     position: relative;
-    background-image: url(bkg-section.jpg);
+    background-image: url(../images/bkg-section.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
@@ -75,7 +75,7 @@ header{
 
 .section-container-bkg-no-circle{
     position: relative;
-    background-image: url(workshop.jpg);
+    background-image: url(../images/workshop.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -85,7 +85,7 @@ header{
 
 .section-container-no-overlay{
     position: relative;
-    background-image: url(no-overlay.jpg);
+    background-image: url(../images/no-overlay.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
